@@ -1,0 +1,1 @@
+export default function NaverLogin() { return <div>Naver Login</div>; }

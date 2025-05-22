@@ -1,0 +1,1 @@
+export default function KakaoLogin() { return <div>Kakao Login</div>; }
